@@ -1,5 +1,7 @@
 # Basic installable PWA using Vue & Vite
 
+## Run it
+
 Run the scripts
 
 ```
@@ -9,3 +11,8 @@ npm run preview
 ```
 
 Open Webbrowser at http://localhost:4173/
+
+
+## Check it out
+
+Checkout file: ./vite.config.js
